@@ -12,20 +12,20 @@ The quick success animation (just meaning you survived a single round without dy
 Rules of Game
 This game is essentially a reaction test. Whenever the light comes from the right, press the right button and when it comes from the left, press the button on the left. If you survive 10 rounds in survival, you will win or, in endless mode, your score will be printed.
 
-HIDDEN FEATURE DO NOT READ IF YOU WANT TO BE SURPRISED:
+HIDDEN FEATURE DO NOT READ IF YOU WANT TO BE SURPRISED:                                                                    
 i                                                                                                                           
 am                                                                                                                        
-warning
-you
-now
-Your choice to keep scrolling down
-seriously
-just
-in
-case 
-you
-want
-to
-be
-impressed
+warning                                                                                                                     
+you                                                                                                                     
+now                                                                                                                     
+Your choice to keep scrolling down                                                                                  
+seriously                                                                                                                    
+just                                                                                                                     
+in                                                                                                                     
+case                                                                                                                      
+you                                                                                                                     
+want                                                                                                                     
+to                                                                                                                     
+be                                                                                                                     
+impressed                                                                                                                     
 If you are in mode select, you can shake the device to increase initial amount of lives starting a round up to 10 and then back to 1
