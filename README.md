@@ -13,8 +13,8 @@ Rules of Game
 This game is essentially a reaction test. Whenever the light comes from the right, press the right button and when it comes from the left, press the button on the left. If you survive 10 rounds in survival, you will win or, in endless mode, your score will be printed.
 
 HIDDEN FEATURE DO NOT READ IF YOU WANT TO BE SURPRISED:
-i
-am
+i                                                                                                                           
+am                                                                                                                        
 warning
 you
 now
