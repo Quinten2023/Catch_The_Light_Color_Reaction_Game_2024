@@ -189,19 +189,69 @@ void loop() {
         CircuitPlayground.clearPixels();
         break;
       case 6:
+       while(lives>0){
         diff1();
+        points++;
+      }
+      Serial.print("Score = ");
+      Serial.println(points);
+      if (points > 2*maxlives) {
+          Xgonna();
+        } else {
+          OSU();
+        }
         break;
       case 7:
+        while(lives>0){
         diff2();
+        points++;
+      }
+      Serial.print("Score = ");
+      Serial.println(points);
+      if (points > 2*maxlives) {
+          Xgonna();
+        } else {
+          OSU();
+        }
         break;
       case 8:
+        while(lives>0){
         diff3();
+        points++;
+      }
+      Serial.print("Score = ");
+      Serial.println(points);
+      if (points > 2*maxlives) {
+          Xgonna();
+        } else {
+          OSU();
+        }
         break;
       case 9:
+        while(lives>0){
         diff4();
+        points++;
+      }
+      Serial.print("Score = ");
+      Serial.println(points);
+      if (points > 2*maxlives) {
+          Xgonna();
+        } else {
+          OSU();
+        }
         break;
       case 10:
+        while(lives>0){
         diff5();
+        points++;
+      }
+      Serial.print("Score = ");
+      Serial.println(points);
+      if (points > 2*maxlives) {
+          Xgonna();
+        } else {
+          OSU();
+        }
         break;
     }
   }
